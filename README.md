@@ -6,7 +6,7 @@
 ### **<div align="center">Sou amante da Tecnologia🧑‍💻</div>**  
   
 
-- 🔭 Atualmente trabalho no cargo de estagiário em Data Science no Santander Brasil!  
+- 🔭 Atualmente sou cargo de estagiário na área de Data Science no Santander Brasil!  
   
 
 - 🌱 Estou cursando Análise e Desenvolvimento de Sistemas no Instituto Federal de Educação, Ciência e Tecnologia de São Paulo  
