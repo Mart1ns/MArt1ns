@@ -6,7 +6,7 @@
 ### **<div align="center">Sou amante da Tecnologia🧑‍💻</div>**  
   
 
-- 🔭 Atualmente trabalho no cargo de aprendiz em Análise de dados na Getnet Brasil!  
+- 🔭 Atualmente trabalho no cargo de estagiário em Data Science no Santander Brasil!  
   
 
 - 🌱 Estou cursando Análise e Desenvolvimento de Sistemas no Instituto Federal de Educação, Ciência e Tecnologia de São Paulo  
